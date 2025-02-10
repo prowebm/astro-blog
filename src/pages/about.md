@@ -34,3 +34,5 @@ Here are certain features of this site.
 
 If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
 Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6yq5J0_i6HM?si=i-FoNUHtpFJwP_vj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
